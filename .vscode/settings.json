@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "files.exclude": {
+        // "node_modules": true,
+        // "fonts": true,
+        // "logo.png": true,
+        // "package*": true,
+        // ".*": true
+    }
+}
